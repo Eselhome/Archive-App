@@ -1,0 +1,6 @@
+{
+  "name": "BelegTresor",
+  "description": "Zentrale Erfassung, Kategorisierung, Sortierung, Volltextsuche und Inhaltszusammenfassung für Rechnungen, Quittungen und Belege.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
